@@ -1,18 +1,28 @@
 {
   "vaultName": "My Knowledge",
-  "lastExport": 1728218632057,
+  "lastExport": 1728250224367,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
     "Uni Ita/Storia Del Cinema/Aziende/Edison.md",
+    "Uni Ita/Storia Del Cinema/Aziende/Gaumont.md",
     "Uni Ita/Storia Del Cinema/Aziende/Kodak.md",
     "Uni Ita/Storia Del Cinema/Aziende/Lumière.md",
+    "Uni Ita/Storia Del Cinema/Aziende/Nordisk.md",
+    "Uni Ita/Storia Del Cinema/Aziende/Pathé.md",
+    "Uni Ita/Storia Del Cinema/Aziende/Star Film.md",
     "Uni Ita/Storia Del Cinema/Film/Demolition d'un mur.md",
     "Uni Ita/Storia Del Cinema/Film/L'Arroseur Arrosé.md",
     "Uni Ita/Storia Del Cinema/Film/L'uscita dalle fabbriche Lumière.md",
     "Uni Ita/Storia Del Cinema/Film/Laveuses sur la rivière.md",
+    "Uni Ita/Storia Del Cinema/Film/Le Voyage dans la lune.md",
+    "Uni Ita/Storia Del Cinema/Film/Life of an American Fireman.md",
+    "Uni Ita/Storia Del Cinema/Film/Mary Jane's Mishap.md",
+    "Uni Ita/Storia Del Cinema/Film/Phantom Ride.md",
+    "Uni Ita/Storia Del Cinema/Film/The Big Swallow.md",
+    "Uni Ita/Storia Del Cinema/Film/The Great Train Robbery (1903).md",
     "Uni Ita/Storia Del Cinema/Oggetti/Bioskop.md",
     "Uni Ita/Storia Del Cinema/Oggetti/Cinématographe.md",
     "Uni Ita/Storia Del Cinema/Oggetti/Fenachistoscopio.md",
@@ -20,7 +30,10 @@
     "Uni Ita/Storia Del Cinema/Oggetti/Kinetografo.md",
     "Uni Ita/Storia Del Cinema/Oggetti/Lanterna Magica.md",
     "Uni Ita/Storia Del Cinema/Oggetti/Zootropio.md",
+    "Uni Ita/Storia Del Cinema/Persone/Ferdinand Zecca.md",
+    "Uni Ita/Storia Del Cinema/Persone/George Albert Smith.md",
     "Uni Ita/Storia Del Cinema/Persone/George Eastman.md",
+    "Uni Ita/Storia Del Cinema/Persone/Georges Méliès.md",
     "Uni Ita/Storia Del Cinema/Persone/Horner.md",
     "Uni Ita/Storia Del Cinema/Persone/Niepce.md",
     "Uni Ita/Storia Del Cinema/Persone/Plateau.md",
@@ -29,6 +42,9 @@
     "Uni Ita/Storia Del Cinema/Persone/W.K.L Dickson.md",
     "Uni Ita/Storia Del Cinema/Persone/William Henry Talbot.md",
     "Uni Ita/Storia Del Cinema/Single Notes/Birt Acres.md",
+    "Uni Ita/Storia Del Cinema/Single Notes/Edwin S. Porter.md",
+    "Uni Ita/Storia Del Cinema/Single Notes/James Williamson.md",
+    "Uni Ita/Storia Del Cinema/Single Notes/Scuola di Brighton.md",
     "Uni Ita/Storia Del Cinema/Storia del Cinema Main.md",
     "Uni Ita/Storia Del Cinema/Storia del Cinema Timeline.canvas",
     "Uni Ita/index.md",
@@ -67,249 +83,345 @@
   ],
   "fileInfo": {
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Aziende/Edison.md": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 471,
       "exportedPath": "Uni Ita/Storia Del Cinema/Aziende/Edison.html",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Aziende/Kodak.md": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 409,
       "exportedPath": "Uni Ita/Storia Del Cinema/Aziende/Kodak.html",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Aziende/Lumière.md": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 746,
       "exportedPath": "Uni Ita/Storia Del Cinema/Aziende/Lumière.html",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Film/Demolition d'un mur.md": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 267,
       "exportedPath": "Uni Ita/Storia Del Cinema/Film/Demolition d'un mur.html",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Film/L'Arroseur Arrosé.md": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 353,
       "exportedPath": "Uni Ita/Storia Del Cinema/Film/L'Arroseur Arrosé.html",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Film/L'uscita dalle fabbriche Lumière.md": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 145,
       "exportedPath": "Uni Ita/Storia Del Cinema/Film/L'uscita dalle fabbriche Lumière.html",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Film/Laveuses sur la rivière.md": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 308,
       "exportedPath": "Uni Ita/Storia Del Cinema/Film/Laveuses sur la rivière.html",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Oggetti/Bioskop.md": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 548,
       "exportedPath": "Uni Ita/Storia Del Cinema/Oggetti/Bioskop.html",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Oggetti/Cinématographe.md": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 757,
       "exportedPath": "Uni Ita/Storia Del Cinema/Oggetti/Cinématographe.html",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Oggetti/Fenachistoscopio.md": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 336,
       "exportedPath": "Uni Ita/Storia Del Cinema/Oggetti/Fenachistoscopio.html",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Oggetti/Fonografo.md": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 124,
       "exportedPath": "Uni Ita/Storia Del Cinema/Oggetti/Fonografo.html",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Oggetti/Kinetografo.md": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 467,
       "exportedPath": "Uni Ita/Storia Del Cinema/Oggetti/Kinetografo.html",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Oggetti/Lanterna Magica.md": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 494,
       "exportedPath": "Uni Ita/Storia Del Cinema/Oggetti/Lanterna Magica.html",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Oggetti/Zootropio.md": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 411,
       "exportedPath": "Uni Ita/Storia Del Cinema/Oggetti/Zootropio.html",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Persone/George Eastman.md": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 442,
       "exportedPath": "Uni Ita/Storia Del Cinema/Persone/George Eastman.html",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Persone/Horner.md": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 155,
       "exportedPath": "Uni Ita/Storia Del Cinema/Persone/Horner.html",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Persone/Niepce.md": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 274,
       "exportedPath": "Uni Ita/Storia Del Cinema/Persone/Niepce.html",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Persone/Plateau.md": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 153,
       "exportedPath": "Uni Ita/Storia Del Cinema/Persone/Plateau.html",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Persone/Skladanowsky.md": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 318,
       "exportedPath": "Uni Ita/Storia Del Cinema/Persone/Skladanowsky.html",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Persone/Stampfer.md": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 122,
       "exportedPath": "Uni Ita/Storia Del Cinema/Persone/Stampfer.html",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Persone/W.K.L Dickson.md": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 545,
       "exportedPath": "Uni Ita/Storia Del Cinema/Persone/W.K.L Dickson.html",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Persone/William Henry Talbot.md": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 275,
       "exportedPath": "Uni Ita/Storia Del Cinema/Persone/William Henry Talbot.html",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Single Notes/Birt Acres.md": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 53,
       "exportedPath": "Uni Ita/Storia Del Cinema/Single Notes/Birt Acres.html",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Storia del Cinema Main.md": {
-      "modifiedTime": 1728218632057,
-      "sourceSize": 6372,
+      "modifiedTime": 1728250224367,
+      "sourceSize": 9808,
       "exportedPath": "Uni Ita/Storia Del Cinema/Storia del Cinema Main.html",
       "dependencies": []
     },
     "Uni Ita/Storia Del Cinema/Storia del Cinema Timeline.canvas": {
-      "modifiedTime": 1728218632057,
-      "sourceSize": 28,
+      "modifiedTime": 1728250224367,
+      "sourceSize": 1510,
       "exportedPath": "Uni Ita/Storia Del Cinema/Storia del Cinema Timeline.html",
       "dependencies": []
     },
     "Uni Ita/index.md": {
-      "modifiedTime": 1728218632057,
+      "modifiedTime": 1728250224367,
       "sourceSize": 31,
       "exportedPath": "Uni Ita/index.html",
+      "dependencies": []
+    },
+    "Uni Ita/Storia Del Cinema/Aziende/Gaumont.md": {
+      "modifiedTime": 1728250224367,
+      "sourceSize": 784,
+      "exportedPath": "Uni Ita/Storia Del Cinema/Aziende/Gaumont.html",
+      "dependencies": []
+    },
+    "Uni Ita/Storia Del Cinema/Aziende/Nordisk.md": {
+      "modifiedTime": 1728250224367,
+      "sourceSize": 644,
+      "exportedPath": "Uni Ita/Storia Del Cinema/Aziende/Nordisk.html",
+      "dependencies": []
+    },
+    "Uni Ita/Storia Del Cinema/Aziende/Pathé.md": {
+      "modifiedTime": 1728250224367,
+      "sourceSize": 1360,
+      "exportedPath": "Uni Ita/Storia Del Cinema/Aziende/Pathé.html",
+      "dependencies": []
+    },
+    "Uni Ita/Storia Del Cinema/Aziende/Star Film.md": {
+      "modifiedTime": 1728250224367,
+      "sourceSize": 105,
+      "exportedPath": "Uni Ita/Storia Del Cinema/Aziende/Star Film.html",
+      "dependencies": []
+    },
+    "Uni Ita/Storia Del Cinema/Film/Le Voyage dans la lune.md": {
+      "modifiedTime": 1728250224367,
+      "sourceSize": 1746,
+      "exportedPath": "Uni Ita/Storia Del Cinema/Film/Le Voyage dans la lune.html",
+      "dependencies": []
+    },
+    "Uni Ita/Storia Del Cinema/Film/Life of an American Fireman.md": {
+      "modifiedTime": 1728250224367,
+      "sourceSize": 1615,
+      "exportedPath": "Uni Ita/Storia Del Cinema/Film/Life of an American Fireman.html",
+      "dependencies": []
+    },
+    "Uni Ita/Storia Del Cinema/Film/Mary Jane's Mishap.md": {
+      "modifiedTime": 1728250224367,
+      "sourceSize": 490,
+      "exportedPath": "Uni Ita/Storia Del Cinema/Film/Mary Jane's Mishap.html",
+      "dependencies": []
+    },
+    "Uni Ita/Storia Del Cinema/Film/Phantom Ride.md": {
+      "modifiedTime": 1728250224367,
+      "sourceSize": 285,
+      "exportedPath": "Uni Ita/Storia Del Cinema/Film/Phantom Ride.html",
+      "dependencies": []
+    },
+    "Uni Ita/Storia Del Cinema/Film/The Big Swallow.md": {
+      "modifiedTime": 1728250224367,
+      "sourceSize": 192,
+      "exportedPath": "Uni Ita/Storia Del Cinema/Film/The Big Swallow.html",
+      "dependencies": []
+    },
+    "Uni Ita/Storia Del Cinema/Film/The Great Train Robbery (1903).md": {
+      "modifiedTime": 1728250224367,
+      "sourceSize": 342,
+      "exportedPath": "Uni Ita/Storia Del Cinema/Film/The Great Train Robbery (1903).html",
+      "dependencies": []
+    },
+    "Uni Ita/Storia Del Cinema/Persone/Ferdinand Zecca.md": {
+      "modifiedTime": 1728250224367,
+      "sourceSize": 192,
+      "exportedPath": "Uni Ita/Storia Del Cinema/Persone/Ferdinand Zecca.html",
+      "dependencies": []
+    },
+    "Uni Ita/Storia Del Cinema/Persone/George Albert Smith.md": {
+      "modifiedTime": 1728250224367,
+      "sourceSize": 153,
+      "exportedPath": "Uni Ita/Storia Del Cinema/Persone/George Albert Smith.html",
+      "dependencies": []
+    },
+    "Uni Ita/Storia Del Cinema/Persone/Georges Méliès.md": {
+      "modifiedTime": 1728250224367,
+      "sourceSize": 589,
+      "exportedPath": "Uni Ita/Storia Del Cinema/Persone/Georges Méliès.html",
+      "dependencies": []
+    },
+    "Uni Ita/Storia Del Cinema/Single Notes/Edwin S. Porter.md": {
+      "modifiedTime": 1728250224367,
+      "sourceSize": 701,
+      "exportedPath": "Uni Ita/Storia Del Cinema/Single Notes/Edwin S. Porter.html",
+      "dependencies": []
+    },
+    "Uni Ita/Storia Del Cinema/Single Notes/James Williamson.md": {
+      "modifiedTime": 1728250224367,
+      "sourceSize": 213,
+      "exportedPath": "Uni Ita/Storia Del Cinema/Single Notes/James Williamson.html",
+      "dependencies": []
+    },
+    "Uni Ita/Storia Del Cinema/Single Notes/Scuola di Brighton.md": {
+      "modifiedTime": 1728250224367,
+      "sourceSize": 412,
+      "exportedPath": "Uni Ita/Storia Del Cinema/Single Notes/Scuola di Brighton.html",
       "dependencies": []
     }
   }
